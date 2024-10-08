@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pethanaraj K
 - 👀 I’m interested in Electronics/IT
 - 🌱 I’m currently learning BE.EEE
-- 💞️
+  
 - 📫 How to reach me rajeshr8136@gmail.com
 - 
 - ⚡ Fun fact:learner
